@@ -88,7 +88,7 @@
         <div class="flex mb-4 mt-16">
         <div class="w-1/3 h-full ml-10">
         <div class="max-w-sm rounded overflow-hidden shadow-lg">
-        <img class="w-full" src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=130&q=80" alt="" />
+        <img class="w-full" src="https://images.unsplash.com/flagged/photo-1563536314719-2e812e896f50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" alt="" />
         <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">What is new to Laravel?</div>
             <p class="text-gray-700 text-base">
@@ -105,7 +105,7 @@
 
         <div class="w-1/3 h-full">
         <div class="max-w-sm rounded overflow-hidden shadow-lg">
-        <img class="w-full" src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=130&q=80" alt="" />
+        <img class="w-full" src="https://images.unsplash.com/flagged/photo-1563536314719-2e812e896f50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" alt="" />
         <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">What is new to Laravel?</div>
             <p class="text-gray-700 text-base">
@@ -122,7 +122,7 @@
 
         <div class="w-1/3 h-full">
         <div class="max-w-sm rounded overflow-hidden shadow-lg">
-        <img class="w-full" src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=130&q=80" alt="" />
+        <img class="w-full" src="https://images.unsplash.com/flagged/photo-1563536314719-2e812e896f50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" alt="" />
         <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">What is new to Laravel?</div>
             <p class="text-gray-700 text-base">
