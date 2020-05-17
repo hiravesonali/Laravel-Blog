@@ -7,7 +7,7 @@
         <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
 
 
-        <title>Laravel-Blog</title>
+        <title>Laravel-topics</title>
 
     </head>
 
@@ -41,10 +41,10 @@
   </div>
   <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
     <div class="text-base lg:flex-grow">
-      <a href="#responsive-header" class="block ml-8 mt-4 lg:inline-block lg:mt-0 text-white font-semibold hover:text-white mr-4">
+      <a href="#responsive-header" class="block ml-8 mt-4 lg:inline-block lg:mt-0 text-gray-300 font-medium hover:text-white mr-4">
         Home
       </a>
-      <a href="#responsive-header" class="block ml-8 mt-4 lg:inline-block lg:mt-0 text-gray-300 font-medium hover:text-white mr-4">
+      <a href="#responsive-header" class="block ml-8 mt-4 lg:inline-block lg:mt-0 text-white font-semibold hover:text-white mr-4">
         Topics
       </a>
       <a href="#responsive-header" class="block ml-8 mt-4 lg:inline-block lg:mt-0 text-gray-300 font-medium hover:text-white">
@@ -85,60 +85,9 @@
 </nav>
                 
          <!--blog post start-->
-        <div class="flex mb-4 mt-16">
-        <div class="w-1/3 h-full ml-10">
-        <div class="max-w-sm rounded overflow-hidden shadow-lg">
-        <img class="w-full" src="https://images.unsplash.com/flagged/photo-1563536314719-2e812e896f50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" alt="" />
-        <div class="px-6 py-4">
-            <div class="font-bold text-xl mb-2">What is new to Laravel?</div>
-            <p class="text-gray-700 text-base">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
-            </p>
-        </div>
-        <div class="px-6 py-4">
-            <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">#laravel</span>
-            <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">#PHP</span>
-            <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">#FrontendDeveloper</span>
-        </div>
-        </div>
-        </div>
-
-        <div class="w-1/3 h-full">
-        <div class="max-w-sm rounded overflow-hidden shadow-lg">
-        <img class="w-full" src="https://images.unsplash.com/flagged/photo-1563536314719-2e812e896f50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" alt="" />
-        <div class="px-6 py-4">
-            <div class="font-bold text-xl mb-2">What is new to Laravel?</div>
-            <p class="text-gray-700 text-base">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
-            </p>
-        </div>
-        <div class="px-6 py-4">
-            <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">#laravel</span>
-            <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">#PHP</span>
-            <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">#FrontendDeveloper</span>
-        </div>
-        </div>
-        </div>
-
-        <div class="w-1/3 h-full">
-        <div class="max-w-sm rounded overflow-hidden shadow-lg">
-        <img class="w-full" src="https://images.unsplash.com/flagged/photo-1563536314719-2e812e896f50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" alt="" />
-        <div class="px-6 py-4">
-            <div class="font-bold text-xl mb-2">What is new to Laravel?</div>
-            <p class="text-gray-700 text-base">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
-            </p>
-        </div>
-        <div class="px-6 py-4">
-            <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">#laravel</span>
-            <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">#PHP</span>
-            <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">#FrontendDeveloper</span>
-        </div>
-        </div>
-        </div>
-
-
-        </div>
+      <div class="flex mb-4 mt-16">
+        
+      </div>
             
         
         </div>
